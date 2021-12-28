@@ -1,3 +1,5 @@
+module H99.Lists.P01 where
+
 --(*) Find the last element of a list.
 
 myLast :: [a] -> a

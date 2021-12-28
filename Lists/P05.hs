@@ -1,3 +1,5 @@
+module H99.Lists.P05 where
+
 --(*) Reverse a list.
 
 -- Prelude implementations:
